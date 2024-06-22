@@ -1,2 +1,3 @@
 # Meu_Primeiro_Repositorio_01
-Inicio so curso!
+Autenticação via nome de usuário e senha;
+autenticação via Token de acesso pessoal;
